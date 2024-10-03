@@ -18,15 +18,15 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 Here's some words about the book _One Hundred Years..._.
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 
-[You're **really, really** going to want to see this.](www.dailykitten.com)
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
-#### The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](https:www.bbc.com/news)
 
-Do you want to [see something fun](www.zombo.com)?
+Do you want to [see something fun](https:www.zombo.com)?
 
-Well, do I have [the website for you](www.stumbleupon.com)!
+Well, do I have [the website for you](https:www.stumbleupon.com)!
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
